@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some application.
 - 🌱 I’m currently learning Java.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pchelium&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pchelium&show_icons=true&theme=dark)
 
 <!--
 - 👯 I’m looking to collaborate on ...
